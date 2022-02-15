@@ -11,7 +11,7 @@ export default function() {
                         <br className="hidden lg:inline-block" /> I love to build amazing apps. 
                     </h1>
                     <p className="mb-8 leading-relaxed text-white">
-                    Moha Nkossie is currently a Freelance Web Designer and Developer with over 5 years of experience, specializing in designing all-time responsive wordpress websites and building rich and collaborative applications on Google’s firebase. He has gathered a lot of experience and skills as he has had the honor of working with clients from all the 4 corners of the world.
+                    Moha Nkossie is a Freelance Web Designer and Developer with over 5 years of experience, specializing in designing all-time responsive wordpress websites and building rich and collaborative applications on Google’s firebase. He has gathered a lot of experience and skills as he has had the honor of working with clients from all the 4 corners of the world.
                     </p>
                     <div className="flex justify-center">
                         <a href="#contact" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
