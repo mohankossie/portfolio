@@ -51,16 +51,16 @@ export default function Contact() {
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                EMAIL
+                WHATSAPP
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
-                mohankossie@gmail.com
+              <a className="text-white leading-relaxed">
+                +27603408060
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
+                CALL
               </h2>
               <p className="leading-relaxed text-white">
-                  0603408060
+                  +27603408060
               </p>
             </div>
           </div>
@@ -75,7 +75,7 @@ export default function Contact() {
           </h2>
           <p className="leading-relaxed mb-5 text-white">
           I have over 7 years of experience developing websites,
-          with 12 businesses relying on my skills and expertise on a daily basis since 2021. 
+          with 12 businesses relying on my skills and expertise since 2021. 
           Working directly with the top management of these businesses has "bigly" improved my communication skills with my clients. 
           I get the job done!
           </p>
