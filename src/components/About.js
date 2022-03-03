@@ -8,10 +8,10 @@ export default function() {
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Moha.
-                        <br className="hidden lg:inline-block" /> I love to build amazing apps. 
+                        <br className="hidden lg:inline-block" /> I love building digital products, brands, and experiences. 
                     </h1>
                     <p className="mb-8 leading-relaxed text-white">
-                    Moha Nkossie is a Freelance Web Designer and Developer with over 5 years of experience, specializing in designing all-time responsive wordpress websites and building rich and collaborative applications on Google’s firebase. He has gathered a lot of experience and skills as he has had the honor of working with clients from all the 4 corners of the world.
+                    Moha Nkossie is a Freelance Web Designer and Developer with over 5 years of experience, specializing in designing all-time responsive wordpress websites, static websites on netlify, and building rich and collaborative applications on Google’s firebase. He has gathered a lot of experience and skills as he has had the honor of working with clients from all the 4 corners of the world.
                     </p>
                     <div className="flex justify-center">
                         <a href="#contact" className="inline-flex text-white bg-yellow-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg">
