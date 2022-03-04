@@ -58,3 +58,11 @@ export const skills = [
   "Wireshark",
   "Adobe XD",
 ];
+
+export const education = [
+  "Bachelors in Telecommunications Engineering from Shandong University of Science and Technology in Qingdao, China. Bachelor's degree studies started from September 2014 to June 2018 ",
+  "Advanced level in Mathematics, Physics and Chemistry from St Columbas High School in Bulawayo, Zimbabwe. A'level studies started from March 2011 - November 2012.",
+  "Computer Operations and Packages at National Foundation Certificate in Zimbabwe, in the year 2010.",
+  "Ordinary level in 9 subjects including Mathematics, English and Science. O'level studies started from January 2007 to November 2010. ",
+  
+];
