@@ -14,7 +14,7 @@ export default function() {
                     Moha Nkossie is a Freelance Web Designer and Developer with over 5 years of experience, specializing in designing all-time responsive wordpress websites, static websites on netlify, and building rich and collaborative applications on Google’s firebase. He has gathered a lot of experience and skills as he has had the honor of working with clients from all the 4 corners of the world.
                     </p>
                     <div className="flex justify-center">
-                        <a href="#contact" className="inline-flex text-white bg-yellow-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg">
+                        <a href="#contact" className="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg">
                             Work With Me
                         </a>
                         <a href="#projects" className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg ">
