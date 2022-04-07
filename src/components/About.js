@@ -23,7 +23,7 @@ export default function() {
                     </div>
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                    <img className="object-cover object-center rounded" alt="hero" src="./coding.svg" />
+                    <img className="object-cover object-center rounded" alt="moha nkossie in iron man suit" src="./moha_nkossie_hero.png" />
                 </div>
             </div>
         </section>
